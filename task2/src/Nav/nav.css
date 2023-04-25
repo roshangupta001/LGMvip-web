@@ -1,0 +1,20 @@
+.navbar {
+  background-color: rgb(201, 186, 166);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.heading {
+  margin-top: 10px;
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: Arial, sans-serif;
+}
+
+.box {
+  margin: 5px auto;
+}
